@@ -1,0 +1,27 @@
+{
+  "name": "react-up-and-running",
+  "version": "1.0.0",
+  "description": "playground for reactjs book examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MattReidArnold/react-up-and-running.git"
+  },
+  "keywords": [
+    "reactjs",
+    "node",
+    "express"
+  ],
+  "author": "matt arnold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattReidArnold/react-up-and-running/issues"
+  },
+  "homepage": "https://github.com/MattReidArnold/react-up-and-running#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
